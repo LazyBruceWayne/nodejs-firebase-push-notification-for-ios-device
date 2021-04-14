@@ -1,1 +1,1 @@
-# nodejs-firebase-push-notification-for-ios-device
+# Nodejs firebase push notification for ios device
